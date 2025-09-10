@@ -16,3 +16,5 @@ These projects helped me strengthen my understanding of:
 - Control Flow (if-else, loops)
 - Functions and Modules
 - Lists, Tuples, Dictionaries, and Sets
+- File Handling
+- Basic Problem Solving and Algorithms
